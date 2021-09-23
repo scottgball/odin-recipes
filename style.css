@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 123, 0);
+}
+
+h1 {
+    background-color: turquoise;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(94, 94, 94, 0.856)
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    background-color: turquoise;
+}
+
+p,
+ul,
+ol,
+a {
+    background-color: rgb(225, 171, 236);
+}
+
+
